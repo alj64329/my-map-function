@@ -1,0 +1,23 @@
+{
+  "name": "@amiyazaki/my-map-function",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alj64329/my-map-function.git"
+  },
+  "keywords": [
+    "map"
+  ],
+  "author": "Ayaka Miyazaki",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alj64329/my-map-function/issues"
+  },
+  "homepage": "https://github.com/alj64329/my-map-function#readme"
+}
